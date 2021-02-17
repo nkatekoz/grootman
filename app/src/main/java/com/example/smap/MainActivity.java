@@ -13,6 +13,10 @@ public class MainActivity extends AppCompatActivity {
         
         //Just checking if it works
         int robert = 0;
-        
+       //Just saw the insert from now
+
+       String welcome = "I have noted your input";
+
+      // fhgdgdgf
     }
 }
